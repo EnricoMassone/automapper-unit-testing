@@ -1,0 +1,1 @@
+# automapper-unit-testing
